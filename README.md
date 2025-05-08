@@ -1,5 +1,8 @@
 <h1>Hi, I'm Ogenna Israel!  <a href=>A Junior Backend developer</a> </h1>
 
+<h2> About ME<h2>
+  Hello, i am Ogenna Israel. A junior Backend developer, Proactive in  building effective and efficient server-side logic of a web application..
+  
 <h2>👨‍💻 My Development Projects:</h2>
 
 
