@@ -1,5 +1,5 @@
 # Hi there, I'm Ogenna 👋
-**Backend Developer | Python & Django Enthusiast | Automation & Scalability Expert**
+**Backend Developer | Python & Django Specialist | Automation & Scalability Expert**
 
 ---
 
