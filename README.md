@@ -10,11 +10,6 @@
 I'm **Ogenna Israel**, a passionate **Backend Developer** with hands-on experience building RESTful APIs, database-driven applications, and scalable backend systems using **Python, Django, FastAPI, MongoDB, and PostgreSQL**. I have a strong foundation in designing and building efficient systems that make a difference.  
 Certified through the **ALX Software Engineering Program**, I thrive in Agile teams and enjoy building real-world solutions that work.
 
-- 🚀 Some of my projects: **https://portfolio-site-c53e.onrender.com**
-- 📄 View my resume: *(blob:https://app.flowcv.com/5a14471b-5706-4b85-9af7-cfdbb1082349)*
-- 💻 GitHub: **https://github.com/ogennaisrael01**
-
----
 
 ### Strengths and Skills
 I excel at:
