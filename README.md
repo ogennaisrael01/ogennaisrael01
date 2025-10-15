@@ -11,7 +11,7 @@ I'm **Ogenna Israel**, a passionate **Backend Developer** with hands-on experien
 Certified through the **ALX Software Engineering Program**, I thrive in Agile teams and enjoy building real-world solutions that work.
 
 - 🚀 Some of my projects: **https://portfolio-site-c53e.onrender.com**
-- 📄 View my resume: *(file:///C:/Users/HP%20ELITEBOOK/Downloads/Ogenna-Israel-Eze-FlowCV-Resume-20251009.pdf)*
+- 📄 View my resume: *(blob:https://app.flowcv.com/5a14471b-5706-4b85-9af7-cfdbb1082349)*
 - 💻 GitHub: **https://github.com/ogennaisrael01**
 
 ---
