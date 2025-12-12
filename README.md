@@ -47,7 +47,7 @@ Beyond backend engineering, I enjoy:
 - Music, cooking, and creative thinking
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Toyo572&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ogennaisrael01&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ### Connect with Me
